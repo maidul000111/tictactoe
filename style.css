@@ -1,0 +1,21 @@
+table{
+    margin: auto;
+}
+td{
+    width: 100px;
+    height: 100px;
+   
+}
+.vertical{
+    border-left: 2px solid gold;
+    border-right: 2px solid gold;
+
+}
+.horizontal{
+    border-top: 2px solid gold;
+    border-bottom: 2px solid gold;
+}
+h1{
+    text-align: center;
+    
+}
