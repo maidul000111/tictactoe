@@ -21,6 +21,10 @@ h1{
 }
 h3{
  text-align: center;
- color: blueviolet;
- font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+ color:royalblue;
+ font-family: fantasy;
+}
+h2{
+    color: maroon;
+    text-align: centers;
 }
